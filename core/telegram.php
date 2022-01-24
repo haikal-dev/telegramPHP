@@ -9,7 +9,7 @@
  * 
  */
 
-class TelegramModel
+class TelegramAPI
 {
 	/**
 	 * $url
